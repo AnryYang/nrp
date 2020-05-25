@@ -36,3 +36,15 @@ $ cd eval/
 $ python eval_linkpred.py --algo nrp --data wiki --d 128
 $ python graphreconstruct_util.py --algo nrp --data wiki --d 128
 ```
+
+## Citation
+@article{yang2020homogeneous,
+  title={Homogeneous network embedding for massive graphs via reweighted personalized PageRank},
+  author={Yang, Renchi and Shi, Jieming and Xiao, Xiaokui and Yang, Yin and Bhowmick, Sourav S},
+  journal={Proceedings of the VLDB Endowment},
+  volume={13},
+  number={5},
+  pages={670--683},
+  year={2020},
+  publisher={VLDB Endowment}
+}
